@@ -1,10 +1,11 @@
 >📋  A template README.md for code accompanying a Machine Learning paper
 
-# My Paper Title
+# Optimal Usage of Large Language Models for Efficient Data Labeling with Limited Resources
 
 This repository is the official implementation of [Optimal Usage of Large Language Models for Efficient Data Labeling with Limited Resources]. 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+>📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials  
+>![The Framework of LMCrowd]( "The Framework of LMCrowd")
 
 ## Requirements
 
